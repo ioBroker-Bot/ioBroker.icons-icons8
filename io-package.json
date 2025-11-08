@@ -21,6 +21,7 @@
         "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-icons8/master/admin/icons8.png",
         "readme": "https://github.com/ioBroker/ioBroker.icons-icons8/blob/master/README.md",
         "loglevel": "info",
+        "tier": 3,
         "dependencies": [
             "web"
         ],
