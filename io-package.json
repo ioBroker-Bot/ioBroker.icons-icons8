@@ -12,6 +12,10 @@
       "bluefox <dogafox@gmail.com>"
     ],
     "platform": "javascript/Node.js",
+    "licenseInformation": {
+      "type": "free",
+      "license": "CC BY-ND 3.0"
+    },
     "icon": "icons8.png",
     "mode": "none",
     "keywords": [
